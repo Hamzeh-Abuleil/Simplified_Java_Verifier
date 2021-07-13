@@ -8,12 +8,12 @@ A tool able to verify the validity of Java code; it knows how to read Java code 
 * Package:- oop.ex6.main:
 
     *  Default scope package:-
-        * Constants.java:
-        * Variable.java:
-        * AnalyzerFactory.java:
-        * FundamentalsChecks.java:
-        * AdvancedChecks.java:
-        * Sjavac.java:
+        * Constants.java
+        * Variable.java
+        * AnalyzerFactory.java
+        * FundamentalsChecks.java
+        * AdvancedChecks.java
+        * Sjavac.java
         * Exceptions Package:-
             * IllegalException.java : An exception thrown when the problem Sjava syntax
             * ClosingMethodException.java : An exception thrown when the problem is Closing the method.
